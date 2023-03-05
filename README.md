@@ -1,2 +1,2 @@
 # gigshouse
-Love Python
+Created my own browser using Python. Used modules: PyQt5
